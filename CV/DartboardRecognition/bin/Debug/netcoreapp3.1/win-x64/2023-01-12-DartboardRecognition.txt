@@ -19,3 +19,1445 @@
 08:01:47.0506 [INFO] [DartboardRecognition.Windows.MainWindowViewModel.StartDetection]: Detection for 4 cams start
 08:01:47.0538 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.ClearAllCamsImageBoxes]: Clear all cams imageboxes start
 08:01:47.0538 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 start. RoiBackgroundRefresh = True
+11:22:09.2569 [INFO] [DartboardRecognition.Windows.MainWindow..ctor]: 
+
+11:22:09.3099 [INFO] [DartboardRecognition.Windows.MainWindow..ctor]: App start
+11:22:09.9642 [DEBUG] [DartboardRecognition.Windows.MainWindow.RegisterContainer]: Services container register start
+11:22:10.5560 [DEBUG] [DartboardRecognition.Windows.MainWindow.RegisterContainer]: Services container register end
+11:22:10.6556 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings start
+11:22:10.6897 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings end
+11:22:10.8547 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings start
+11:22:11.1694 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings end
+11:22:15.5409 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings start
+11:22:15.5832 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings end
+11:22:15.5832 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings start
+11:22:15.6180 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings end
+11:22:16.9352 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings start
+11:22:16.9756 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings end
+11:22:24.3971 [DEBUG] [DartboardRecognition.Windows.MainWindow.OnClosing]: MainWindow on closing
+11:22:24.3996 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings start
+11:22:24.4424 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings end
+11:28:29.5714 [INFO] [DartboardRecognition.Windows.MainWindow..ctor]: 
+
+11:28:29.7267 [INFO] [DartboardRecognition.Windows.MainWindow..ctor]: App start
+11:28:29.9589 [DEBUG] [DartboardRecognition.Windows.MainWindow.RegisterContainer]: Services container register start
+11:28:30.0359 [DEBUG] [DartboardRecognition.Windows.MainWindow.RegisterContainer]: Services container register end
+11:28:30.0906 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings start
+11:28:30.1290 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings end
+11:28:30.1809 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings start
+11:28:30.3394 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings end
+11:28:33.0093 [DEBUG] [DartboardRecognition.Windows.MainWindow.StartButtonClick]: MainWindow start button clicked
+11:28:33.6504 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 start
+11:28:33.6504 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 end
+11:28:34.0692 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 start
+11:28:34.0692 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 end
+11:28:34.4542 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 start
+11:28:34.4542 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 end
+11:28:34.8420 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 start
+11:28:34.8420 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 end
+11:28:34.8747 [INFO] [DartboardRecognition.Windows.MainWindowViewModel.StartDetection]: Detection for 4 cams start
+11:28:34.8747 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.ClearAllCamsImageBoxes]: Clear all cams imageboxes start
+11:28:34.8747 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 start. RoiBackgroundRefresh = True
+11:28:36.5587 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 start
+11:28:36.5723 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 end
+11:28:36.5723 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 end
+11:28:36.5723 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 start. RoiBackgroundRefresh = True
+11:28:36.9166 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 start
+11:28:36.9166 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 end
+11:28:36.9166 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 end
+11:28:36.9166 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 start. RoiBackgroundRefresh = True
+11:28:38.1946 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 start
+11:28:38.2059 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 end
+11:28:38.2059 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 end
+11:28:38.2059 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 start. RoiBackgroundRefresh = True
+11:28:38.4387 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 start
+11:28:38.4545 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 end
+11:28:38.4545 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 end
+11:28:38.4545 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.ClearAllCamsImageBoxes]: Clear all cams imageboxes end
+11:28:38.4545 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:28:38.4545 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:28:38.5462 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:28:38.5462 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '117713'
+11:28:38.5462 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:28:38.7988 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:28:38.7988 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:28:38.7988 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '114265'
+11:28:38.7988 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Extraction'
+11:28:42.8193 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.ClearAllCamsImageBoxes]: Clear all cams imageboxes start
+11:28:42.8193 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 start. RoiBackgroundRefresh = True
+11:28:42.8676 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 start
+11:28:42.8676 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 end
+11:28:42.8676 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 end
+11:28:42.8676 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 start. RoiBackgroundRefresh = True
+11:28:43.1081 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 start
+11:28:43.1211 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 end
+11:28:43.1211 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 end
+11:28:43.1211 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 start. RoiBackgroundRefresh = True
+11:28:43.3485 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 start
+11:28:43.3591 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 end
+11:28:43.3591 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 end
+11:28:43.3591 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 start. RoiBackgroundRefresh = True
+11:28:43.5880 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 start
+11:28:43.5880 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 end
+11:28:43.5880 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 end
+11:28:43.5880 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.ClearAllCamsImageBoxes]: Clear all cams imageboxes end
+11:28:43.5880 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Extraction'. Cycle break
+11:28:43.5880 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:28:43.5880 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:28:43.7135 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:28:43.7135 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '83897'
+11:28:43.7135 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:28:43.9650 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:28:43.9650 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:28:43.9650 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '77323'
+11:28:43.9650 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Extraction'
+11:28:47.9828 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.ClearAllCamsImageBoxes]: Clear all cams imageboxes start
+11:28:47.9828 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 start. RoiBackgroundRefresh = True
+11:28:48.0337 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 start
+11:28:48.0337 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 end
+11:28:48.0337 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 end
+11:28:48.0337 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 start. RoiBackgroundRefresh = True
+11:28:48.2734 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 start
+11:28:48.2734 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 end
+11:28:48.2734 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 end
+11:28:48.2734 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 start. RoiBackgroundRefresh = True
+11:28:48.5145 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 start
+11:28:48.5303 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 end
+11:28:48.5303 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 end
+11:28:48.5303 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 start. RoiBackgroundRefresh = True
+11:28:48.7569 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 start
+11:28:48.7611 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 end
+11:28:48.7611 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 end
+11:28:48.7611 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.ClearAllCamsImageBoxes]: Clear all cams imageboxes end
+11:28:48.7611 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Extraction'. Cycle break
+11:28:48.7611 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:28:48.7611 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:28:48.8653 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:28:48.8653 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '30050'
+11:28:48.8653 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:28:49.1165 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:28:49.1183 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:28:49.1183 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '26040'
+11:28:49.1183 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Extraction'
+11:28:53.1263 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.ClearAllCamsImageBoxes]: Clear all cams imageboxes start
+11:28:53.1263 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 start. RoiBackgroundRefresh = True
+11:28:53.1879 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 start
+11:28:53.1984 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 end
+11:28:53.1984 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 end
+11:28:53.1984 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 start. RoiBackgroundRefresh = True
+11:28:53.4278 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 start
+11:28:53.4322 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 end
+11:28:53.4322 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 end
+11:28:53.4322 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 start. RoiBackgroundRefresh = True
+11:28:53.6675 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 start
+11:28:53.6675 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 end
+11:28:53.6675 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 end
+11:28:53.6675 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 start. RoiBackgroundRefresh = True
+11:28:53.9079 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 start
+11:28:53.9172 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 end
+11:28:53.9172 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 end
+11:28:53.9172 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.ClearAllCamsImageBoxes]: Clear all cams imageboxes end
+11:28:53.9172 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Extraction'. Cycle break
+11:28:53.9172 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:28:53.9172 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:28:54.0335 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:28:54.0335 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '10092'
+11:28:54.0335 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:28:54.2851 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:28:54.2851 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:28:54.2851 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '10085'
+11:28:54.2851 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Extraction'
+11:28:58.2942 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.ClearAllCamsImageBoxes]: Clear all cams imageboxes start
+11:28:58.2942 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 start. RoiBackgroundRefresh = True
+11:28:58.3555 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 start
+11:28:58.3555 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 end
+11:28:58.3555 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 end
+11:28:58.3555 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 start. RoiBackgroundRefresh = True
+11:28:58.5975 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 start
+11:28:58.6047 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 end
+11:28:58.6047 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 end
+11:28:58.6047 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 start. RoiBackgroundRefresh = True
+11:28:58.8332 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 start
+11:28:58.8417 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 end
+11:28:58.8417 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 end
+11:28:58.8417 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 start. RoiBackgroundRefresh = True
+11:28:59.0738 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 start
+11:28:59.0738 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 end
+11:28:59.0738 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 end
+11:28:59.0738 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.ClearAllCamsImageBoxes]: Clear all cams imageboxes end
+11:28:59.0738 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Extraction'. Cycle break
+11:28:59.0738 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:28:59.0738 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:28:59.1849 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:28:59.1849 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '142'
+11:28:59.1849 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:28:59.3114 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:28:59.3114 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:28:59.3114 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:28:59.3114 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:28:59.3114 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '113'
+11:28:59.3114 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:28:59.4381 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Nothing'
+11:28:59.4381 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection start
+11:28:59.4381 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:28:59.4381 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:28:59.4381 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '77'
+11:28:59.4381 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:28:59.5657 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection end with response type 'Nothing'
+11:28:59.5657 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection start
+11:28:59.5657 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:28:59.5657 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:28:59.5657 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '23'
+11:28:59.5657 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:28:59.6931 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection end with response type 'Nothing'
+11:28:59.6931 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:28:59.6931 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:28:59.6931 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:28:59.6931 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '158'
+11:28:59.6931 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:28:59.9458 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:28:59.9458 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:28:59.9458 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '148'
+11:28:59.9458 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Nothing'
+11:29:00.0737 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:29:00.0737 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:29:00.0737 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:00.0737 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:00.0737 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '107'
+11:29:00.0737 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:00.2009 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Nothing'
+11:29:00.2009 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection start
+11:29:00.2009 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:00.2009 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:00.2009 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '80'
+11:29:00.2009 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:00.3289 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection end with response type 'Nothing'
+11:29:00.3289 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection start
+11:29:00.3289 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:00.3289 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:00.3289 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '27'
+11:29:00.3289 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:00.4558 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection end with response type 'Nothing'
+11:29:00.4558 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:00.4558 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:00.4558 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:00.4558 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '158'
+11:29:00.4558 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:00.7088 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:00.7088 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:00.7088 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '156'
+11:29:00.7088 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Nothing'
+11:29:00.8362 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:29:00.8362 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:29:00.8362 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:00.8362 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:00.8362 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '76'
+11:29:00.8362 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:00.9640 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Nothing'
+11:29:00.9640 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection start
+11:29:00.9640 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:00.9640 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:00.9640 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '60'
+11:29:00.9640 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:01.0909 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection end with response type 'Nothing'
+11:29:01.0909 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection start
+11:29:01.0909 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:01.0909 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:01.0909 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '40'
+11:29:01.0909 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:01.2176 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection end with response type 'Nothing'
+11:29:01.2176 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:01.2176 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:01.2176 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:01.2176 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '166'
+11:29:01.2176 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:01.4696 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:01.4696 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:01.4696 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '180'
+11:29:01.4696 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Nothing'
+11:29:01.5978 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:29:01.5978 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:29:01.5978 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:01.5978 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:01.5978 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '44'
+11:29:01.5978 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:01.7260 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Nothing'
+11:29:01.7260 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection start
+11:29:01.7260 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:01.7284 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:01.7284 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '84'
+11:29:01.7284 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:01.8538 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection end with response type 'Nothing'
+11:29:01.8538 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection start
+11:29:01.8538 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:01.8538 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:01.8538 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '87'
+11:29:01.8538 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:01.9815 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection end with response type 'Nothing'
+11:29:01.9815 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:01.9815 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:01.9815 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:01.9815 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '195'
+11:29:01.9815 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:02.2339 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:02.2339 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:02.2339 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '190'
+11:29:02.2339 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Nothing'
+11:29:02.3617 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:29:02.3617 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:29:02.3617 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:02.3617 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:02.3617 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '5909'
+11:29:02.3617 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:02.6147 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:02.6147 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:02.6147 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '5581'
+11:29:02.6736 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_2 start
+11:29:02.6736 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 start. RoiBackgroundRefresh = False
+11:29:02.7850 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 end
+11:29:02.7850 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 start
+11:29:02.7959 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 end
+11:29:02.7959 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_2 end
+11:29:02.7959 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Trow'
+11:29:02.7959 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_2 start
+11:29:02.7959 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_2 end. Found:True. Contour arc:262,5269113779068
+11:29:02.7959 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_2 start
+11:29:02.7959 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_2 end. Ray saved:Cam_2. From {X=351, Y=-268} to {X=1621,192, Y=1276,8665}, arc 262,5269113779068
+11:29:02.7959 [INFO] [DartboardRecognition.Windows.MainWindowViewModel.FindThrowOnRemainingCams]: Finding throws from remaining cams start. Succeeded cam: 2
+11:29:02.8053 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_1 start
+11:29:02.9130 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:03.0244 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:03.0244 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_1 start
+11:29:03.0244 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 start. RoiBackgroundRefresh = False
+11:29:03.1523 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 end
+11:29:03.1523 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 start
+11:29:03.1523 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 end
+11:29:03.1523 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_1 end
+11:29:03.1523 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_1 end
+11:29:03.1523 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_1 start
+11:29:03.1523 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_1 end. Found:True. Contour arc:257,5979790687561
+11:29:03.1523 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_1 start
+11:29:03.1659 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_1 end. Ray saved:Cam_1. From {X=-155, Y=64} to {X=1769,6576, Y=607,7769}, arc 257,5979790687561
+11:29:03.1659 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_3 start
+11:29:03.2654 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:03.3923 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:03.3923 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_3 start
+11:29:03.3923 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 start. RoiBackgroundRefresh = False
+11:29:03.5046 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 end
+11:29:03.5046 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 start
+11:29:03.5116 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 end
+11:29:03.5116 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_3 end
+11:29:03.5116 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_3 end
+11:29:03.5116 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_3 start
+11:29:03.5116 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_3 end. Found:True. Contour arc:230,62741661071777
+11:29:03.5116 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_3 start
+11:29:03.5116 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_3 end. Ray saved:Cam_3. From {X=937, Y=-234} to {X=986,425, Y=1765,3892}, arc 230,62741661071777
+11:29:03.5116 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_4 start
+11:29:03.6333 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:03.7450 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:03.7450 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_4 start
+11:29:03.7450 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 start. RoiBackgroundRefresh = False
+11:29:03.8723 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 end
+11:29:03.8723 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 start
+11:29:03.8723 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 end
+11:29:03.8723 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_4 end
+11:29:03.8723 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_4 end
+11:29:03.8723 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_4 start
+11:29:03.8723 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_4 end. Found:True. Contour arc:265,3553384542465
+11:29:03.8723 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_4 start
+11:29:03.8838 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_4 end. Ray saved:Cam_4. From {X=1436, Y=78} to {X=313,0728, Y=1733,0029}, arc 265,3553384542465
+11:29:03.9229 [DEBUG] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Calculate throw start
+11:29:03.9229 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_2. From {X=351, Y=-268} to {X=1621,192, Y=1276,8665}, arc 262,5269113779068'
+11:29:03.9229 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_1. From {X=-155, Y=64} to {X=1769,6576, Y=607,7769}, arc 257,5979790687561'
+11:29:03.9229 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_3. From {X=937, Y=-234} to {X=986,425, Y=1765,3892}, arc 230,62741661071777'
+11:29:03.9229 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_4. From {X=1436, Y=78} to {X=313,0728, Y=1733,0029}, arc 265,3553384542465'
+11:29:03.9229 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Best rays:'Cam_4. From {X=1436, Y=78} to {X=313,0728, Y=1733,0029}, arc 265,3553384542465' and 'Cam_2. From {X=351, Y=-268} to {X=1621,192, Y=1276,8665}, arc 262,5269113779068'
+11:29:03.9705 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Throw:1 x 6 = 6
+11:29:03.9705 [DEBUG] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Calculate throw end.
+11:29:03.9705 [INFO] [DartboardRecognition.Windows.MainWindowViewModel.FindThrowOnRemainingCams]: Finding throws from remaining cams end
+11:29:03.9705 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Trow'. Cycle break
+11:29:03.9705 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:03.9705 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:03.9852 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:03.9852 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '5320'
+11:29:03.9852 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:04.2363 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:04.2363 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:04.2363 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '3001'
+11:29:04.3535 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_1 start
+11:29:04.3535 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 start. RoiBackgroundRefresh = False
+11:29:04.4645 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 end
+11:29:04.4645 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 start
+11:29:04.4645 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 end
+11:29:04.4645 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_1 end
+11:29:04.4645 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Trow'
+11:29:04.4645 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_1 start
+11:29:04.4645 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_1 end. Found:True. Contour arc:209,11269783973694
+11:29:04.4645 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_1 start
+11:29:04.4645 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_1 end. Ray saved:Cam_1. From {X=-155, Y=64} to {X=1783,4642, Y=556,2973}, arc 209,11269783973694
+11:29:04.4645 [INFO] [DartboardRecognition.Windows.MainWindowViewModel.FindThrowOnRemainingCams]: Finding throws from remaining cams start. Succeeded cam: 1
+11:29:04.4645 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_2 start
+11:29:04.5927 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:04.7044 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:04.7044 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_2 start
+11:29:04.7044 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 start. RoiBackgroundRefresh = False
+11:29:04.8329 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 end
+11:29:04.8329 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 start
+11:29:04.8432 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 end
+11:29:04.8432 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_2 end
+11:29:04.8432 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_2 end
+11:29:04.8432 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_2 start
+11:29:04.8432 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_2 end. Found:True. Contour arc:385,1543279886246
+11:29:04.8432 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_2 start
+11:29:04.8432 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_2 end. Ray saved:Cam_2. From {X=351, Y=-268} to {X=1643,9299, Y=1257,8873}, arc 385,1543279886246
+11:29:04.8432 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_3 start
+11:29:04.9451 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:05.0726 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:05.0726 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_3 start
+11:29:05.0726 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 start. RoiBackgroundRefresh = False
+11:29:05.1846 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 end
+11:29:05.1846 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 start
+11:29:05.1846 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 end
+11:29:05.1846 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_3 end
+11:29:05.1846 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_3 end
+11:29:05.1846 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_3 start
+11:29:05.1846 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_3 end. Found:True. Contour arc:377,49747383594513
+11:29:05.1846 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_3 start
+11:29:05.1965 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_3 end. Ray saved:Cam_3. From {X=937, Y=-234} to {X=1027,1902, Y=1763,9655}, arc 377,49747383594513
+11:29:05.1965 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_4 start
+11:29:05.3131 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:05.4258 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:05.4258 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_4 start
+11:29:05.4258 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 start. RoiBackgroundRefresh = False
+11:29:05.5546 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 end
+11:29:05.5546 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 start
+11:29:05.5546 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 end
+11:29:05.5546 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_4 end
+11:29:05.5546 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_4 end
+11:29:05.5546 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_4 start
+11:29:05.5546 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_4 end. Found:True. Contour arc:210,42640614509583
+11:29:05.5546 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_4 start
+11:29:05.5546 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_4 end. Ray saved:Cam_4. From {X=1436, Y=78} to {X=380,89264, Y=1777,0433}, arc 210,42640614509583
+11:29:05.5546 [DEBUG] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Calculate throw start
+11:29:05.5546 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_1. From {X=-155, Y=64} to {X=1783,4642, Y=556,2973}, arc 209,11269783973694'
+11:29:05.5546 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_2. From {X=351, Y=-268} to {X=1643,9299, Y=1257,8873}, arc 385,1543279886246'
+11:29:05.5546 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_3. From {X=937, Y=-234} to {X=1027,1902, Y=1763,9655}, arc 377,49747383594513'
+11:29:05.5546 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_4. From {X=1436, Y=78} to {X=380,89264, Y=1777,0433}, arc 210,42640614509583'
+11:29:05.5546 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Best rays:'Cam_2. From {X=351, Y=-268} to {X=1643,9299, Y=1257,8873}, arc 385,1543279886246' and 'Cam_3. From {X=937, Y=-234} to {X=1027,1902, Y=1763,9655}, arc 377,49747383594513'
+11:29:05.6119 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Throw:1 x 4 = 4
+11:29:05.6119 [DEBUG] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Calculate throw end.
+11:29:05.6119 [INFO] [DartboardRecognition.Windows.MainWindowViewModel.FindThrowOnRemainingCams]: Finding throws from remaining cams end
+11:29:05.6119 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Trow'. Cycle break
+11:29:05.6119 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:05.6119 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:05.6651 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:05.6651 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '3476'
+11:29:05.6651 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:05.9165 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:05.9165 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:05.9165 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '2262'
+11:29:06.0329 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_1 start
+11:29:06.0329 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 start. RoiBackgroundRefresh = False
+11:29:06.1448 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 end
+11:29:06.1448 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 start
+11:29:06.1448 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 end
+11:29:06.1448 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_1 end
+11:29:06.1448 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Trow'
+11:29:06.1448 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_1 start
+11:29:06.1448 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_1 end. Found:True. Contour arc:204,76955199241638
+11:29:06.1448 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_1 start
+11:29:06.1584 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_1 end. Ray saved:Cam_1. From {X=-155, Y=64} to {X=1782,6221, Y=559,60144}, arc 204,76955199241638
+11:29:06.1584 [INFO] [DartboardRecognition.Windows.MainWindowViewModel.FindThrowOnRemainingCams]: Finding throws from remaining cams start. Succeeded cam: 1
+11:29:06.1584 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_2 start
+11:29:06.2731 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:06.3846 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:06.3846 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_2 start
+11:29:06.3846 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 start. RoiBackgroundRefresh = False
+11:29:06.5125 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 end
+11:29:06.5125 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 start
+11:29:06.5125 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 end
+11:29:06.5125 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_2 end
+11:29:06.5125 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_2 end
+11:29:06.5125 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_2 start
+11:29:06.5125 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_2 end. Found:True. Contour arc:201,25483322143555
+11:29:06.5125 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_2 start
+11:29:06.5245 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_2 end. Ray saved:Cam_2. From {X=351, Y=-268} to {X=1655,5991, Y=1247,9226}, arc 201,25483322143555
+11:29:06.5245 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_3 start
+11:29:06.6252 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:06.7526 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:06.7526 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_3 start
+11:29:06.7526 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 start. RoiBackgroundRefresh = False
+11:29:06.8645 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 end
+11:29:06.8645 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 start
+11:29:06.8712 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 end
+11:29:06.8712 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_3 end
+11:29:06.8712 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_3 end
+11:29:06.8712 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_3 start
+11:29:06.8712 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_3 end. Found:True. Contour arc:188,76955199241638
+11:29:06.8712 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_3 start
+11:29:06.8712 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_3 end. Ray saved:Cam_3. From {X=937, Y=-234} to {X=1078,4094, Y=1760,9946}, arc 188,76955199241638
+11:29:06.8712 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_4 start
+11:29:06.9927 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:07.1044 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:07.1044 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_4 start
+11:29:07.1044 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 start. RoiBackgroundRefresh = False
+11:29:07.2323 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 end
+11:29:07.2323 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 start
+11:29:07.2323 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 end
+11:29:07.2323 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_4 end
+11:29:07.2323 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_4 end
+11:29:07.2323 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_4 start
+11:29:07.2323 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_4 end. Found:True. Contour arc:226,42640614509583
+11:29:07.2323 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_4 start
+11:29:07.2447 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_4 end. Ray saved:Cam_4. From {X=1436, Y=78} to {X=378,5826, Y=1775,6067}, arc 226,42640614509583
+11:29:07.2447 [DEBUG] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Calculate throw start
+11:29:07.2447 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_1. From {X=-155, Y=64} to {X=1782,6221, Y=559,60144}, arc 204,76955199241638'
+11:29:07.2447 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_2. From {X=351, Y=-268} to {X=1655,5991, Y=1247,9226}, arc 201,25483322143555'
+11:29:07.2447 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_3. From {X=937, Y=-234} to {X=1078,4094, Y=1760,9946}, arc 188,76955199241638'
+11:29:07.2447 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_4. From {X=1436, Y=78} to {X=378,5826, Y=1775,6067}, arc 226,42640614509583'
+11:29:07.2447 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Best rays:'Cam_4. From {X=1436, Y=78} to {X=378,5826, Y=1775,6067}, arc 226,42640614509583' and 'Cam_1. From {X=-155, Y=64} to {X=1782,6221, Y=559,60144}, arc 204,76955199241638'
+11:29:07.2809 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Throw:0
+11:29:07.2809 [DEBUG] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Calculate throw end.
+11:29:07.2809 [INFO] [DartboardRecognition.Windows.MainWindowViewModel.FindThrowOnRemainingCams]: Finding throws from remaining cams end
+11:29:07.2809 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Trow'. Cycle break
+11:29:07.2809 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:07.2809 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:07.3447 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:07.3447 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '2347'
+11:29:07.3447 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:07.5962 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:07.5962 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:07.5962 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '1162'
+11:29:07.7146 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_1 start
+11:29:07.7146 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 start. RoiBackgroundRefresh = False
+11:29:07.8246 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 end
+11:29:07.8246 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 start
+11:29:07.8246 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 end
+11:29:07.8246 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_1 end
+11:29:07.8246 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Trow'
+11:29:07.8246 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_1 start
+11:29:07.8246 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_1 end. Found:True. Contour arc:197,94112491607666
+11:29:07.8246 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_1 start
+11:29:07.8246 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_1 end. Ray saved:Cam_1. From {X=-155, Y=64} to {X=1741,123, Y=700,1739}, arc 197,94112491607666
+11:29:07.8357 [INFO] [DartboardRecognition.Windows.MainWindowViewModel.FindThrowOnRemainingCams]: Finding throws from remaining cams start. Succeeded cam: 1
+11:29:07.8357 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_2 start
+11:29:07.9543 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:08.0646 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:08.0646 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_2 start
+11:29:08.0646 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 start. RoiBackgroundRefresh = False
+11:29:08.1926 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 end
+11:29:08.1926 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 start
+11:29:08.2004 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 end
+11:29:08.2004 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_2 end
+11:29:08.2004 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_2 end
+11:29:08.2004 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_2 start
+11:29:08.2004 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_2 end. Found:True. Contour arc:247,69848430156708
+11:29:08.2004 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_2 start
+11:29:08.2004 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_2 end. Ray saved:Cam_2. From {X=351, Y=-268} to {X=1577,0802, Y=1312,1036}, arc 247,69848430156708
+11:29:08.2004 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_3 start
+11:29:08.3048 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:08.4323 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:08.4323 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_3 start
+11:29:08.4323 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 start. RoiBackgroundRefresh = False
+11:29:08.5444 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 end
+11:29:08.5444 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 start
+11:29:08.5444 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 end
+11:29:08.5444 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_3 end
+11:29:08.5444 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_3 end
+11:29:08.5444 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_3 start
+11:29:08.5444 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_3 end. Found:True. Contour arc:232,04163014888763
+11:29:08.5444 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_3 start
+11:29:08.5570 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_3 end. Ray saved:Cam_3. From {X=937, Y=-234} to {X=974,80725, Y=1765,6426}, arc 232,04163014888763
+11:29:08.5570 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_4 start
+11:29:08.6728 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:08.7849 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:08.7849 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_4 start
+11:29:08.7849 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 start. RoiBackgroundRefresh = False
+11:29:08.9124 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 end
+11:29:08.9124 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 start
+11:29:08.9199 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 end
+11:29:08.9199 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_4 end
+11:29:08.9199 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_4 end
+11:29:08.9199 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_4 start
+11:29:08.9199 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_4 end. Found:True. Contour arc:264,5269113779068
+11:29:08.9199 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_4 start
+11:29:08.9199 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_4 end. Ray saved:Cam_4. From {X=1436, Y=78} to {X=303,3929, Y=1726,3936}, arc 264,5269113779068
+11:29:08.9199 [DEBUG] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Calculate throw start
+11:29:08.9199 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_1. From {X=-155, Y=64} to {X=1741,123, Y=700,1739}, arc 197,94112491607666'
+11:29:08.9199 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_2. From {X=351, Y=-268} to {X=1577,0802, Y=1312,1036}, arc 247,69848430156708'
+11:29:08.9199 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_3. From {X=937, Y=-234} to {X=974,80725, Y=1765,6426}, arc 232,04163014888763'
+11:29:08.9199 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_4. From {X=1436, Y=78} to {X=303,3929, Y=1726,3936}, arc 264,5269113779068'
+11:29:08.9199 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Best rays:'Cam_4. From {X=1436, Y=78} to {X=303,3929, Y=1726,3936}, arc 264,5269113779068' and 'Cam_2. From {X=351, Y=-268} to {X=1577,0802, Y=1312,1036}, arc 247,69848430156708'
+11:29:08.9796 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Throw:1 x 6 = 6
+11:29:08.9796 [DEBUG] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Calculate throw end.
+11:29:08.9796 [INFO] [DartboardRecognition.Windows.MainWindowViewModel.FindThrowOnRemainingCams]: Finding throws from remaining cams end
+11:29:08.9796 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Trow'. Cycle break
+11:29:08.9796 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:08.9796 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:09.0249 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:09.0249 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '28'
+11:29:09.0249 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:09.1511 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:29:09.1511 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:29:09.1511 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:09.1511 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:09.1511 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '29'
+11:29:09.1511 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:09.2785 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Nothing'
+11:29:09.2785 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection start
+11:29:09.2785 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:09.2785 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:09.2785 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '45'
+11:29:09.2785 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:09.4058 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection end with response type 'Nothing'
+11:29:09.4058 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection start
+11:29:09.4058 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:09.4058 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:09.4058 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '36'
+11:29:09.4058 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:09.5328 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection end with response type 'Nothing'
+11:29:09.5328 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:09.5328 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:09.5328 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:09.5328 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '32'
+11:29:09.5328 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:09.6598 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:29:09.6598 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:29:09.6598 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:09.6598 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:09.6598 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '26'
+11:29:09.6598 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:09.7881 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Nothing'
+11:29:09.7881 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection start
+11:29:09.7881 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:09.7897 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:09.7897 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '66'
+11:29:09.7897 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:09.9159 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection end with response type 'Nothing'
+11:29:09.9159 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection start
+11:29:09.9159 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:09.9159 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:09.9159 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '57'
+11:29:09.9159 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:10.0437 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection end with response type 'Nothing'
+11:29:10.0437 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:10.0437 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:10.0437 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:10.0437 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '34'
+11:29:10.0437 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:10.1718 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:29:10.1718 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:29:10.1718 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:10.1718 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:10.1718 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '33'
+11:29:10.1718 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:10.2998 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Nothing'
+11:29:10.2998 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection start
+11:29:10.2998 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:10.2998 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:10.2998 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '76'
+11:29:10.2998 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:10.4269 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection end with response type 'Nothing'
+11:29:10.4269 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection start
+11:29:10.4269 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:10.4269 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:10.4269 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '74'
+11:29:10.4299 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:10.5556 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection end with response type 'Nothing'
+11:29:10.5556 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:10.5556 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:10.5556 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:10.5556 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '41'
+11:29:10.5556 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:10.6830 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:29:10.6830 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:29:10.6830 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:10.6830 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:10.6830 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '51'
+11:29:10.6830 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:10.8108 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Nothing'
+11:29:10.8108 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection start
+11:29:10.8108 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:10.8108 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:10.8108 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '88'
+11:29:10.8108 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:10.9392 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection end with response type 'Nothing'
+11:29:10.9392 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection start
+11:29:10.9392 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:10.9392 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:10.9392 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '91'
+11:29:10.9392 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:11.0669 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection end with response type 'Nothing'
+11:29:11.0669 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:11.0669 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:11.0669 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:11.0669 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '52'
+11:29:11.0669 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:11.1949 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:29:11.1949 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:29:11.1949 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:11.1970 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:11.1970 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '72'
+11:29:11.1970 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:11.3227 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Nothing'
+11:29:11.3227 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection start
+11:29:11.3227 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:11.3227 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:11.3227 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '117'
+11:29:11.3227 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:11.4510 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection end with response type 'Nothing'
+11:29:11.4510 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection start
+11:29:11.4510 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:11.4510 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:11.4510 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '123'
+11:29:11.4510 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:11.5790 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection end with response type 'Nothing'
+11:29:11.5790 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:11.5790 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:11.5790 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:11.5790 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '83'
+11:29:11.5790 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:11.7069 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:29:11.7069 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:29:11.7069 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:11.7069 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:11.7069 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '85'
+11:29:11.7069 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:11.8349 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Nothing'
+11:29:11.8349 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection start
+11:29:11.8349 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:11.8368 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:11.8368 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '170'
+11:29:11.8368 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:12.0872 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:12.0872 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:12.0872 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '149'
+11:29:12.0872 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Nothing'
+11:29:12.2151 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection end with response type 'Nothing'
+11:29:12.2151 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection start
+11:29:12.2151 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:12.2151 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:12.2151 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '164'
+11:29:12.2151 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:12.4677 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:12.4677 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:12.4677 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '159'
+11:29:12.4677 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Nothing'
+11:29:12.5960 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection end with response type 'Nothing'
+11:29:12.5960 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:12.5960 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:12.5960 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:12.5960 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '103'
+11:29:12.5960 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:12.7238 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:29:12.7238 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:29:12.7238 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:12.7238 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:12.7238 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '102'
+11:29:12.7238 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:12.8513 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Nothing'
+11:29:12.8525 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection start
+11:29:12.8525 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:12.8525 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:12.8525 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '198'
+11:29:12.8525 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:13.1052 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:13.1052 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:13.1052 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '211'
+11:29:13.1052 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Nothing'
+11:29:13.2327 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection end with response type 'Nothing'
+11:29:13.2327 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection start
+11:29:13.2327 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:13.2327 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:13.2327 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '193'
+11:29:13.2327 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:13.4861 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:13.4861 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:13.4861 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '187'
+11:29:13.4861 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Nothing'
+11:29:13.6144 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection end with response type 'Nothing'
+11:29:13.6144 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:13.6144 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:13.6144 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:13.6144 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '128'
+11:29:13.6144 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:13.7425 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:29:13.7425 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:29:13.7425 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:13.7425 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:13.7425 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '113'
+11:29:13.7425 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:13.8697 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Nothing'
+11:29:13.8697 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection start
+11:29:13.8697 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:13.8697 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:13.8697 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '217'
+11:29:13.8697 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:14.1227 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:14.1227 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:14.1227 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '211'
+11:29:14.1227 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Nothing'
+11:29:14.2505 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection end with response type 'Nothing'
+11:29:14.2505 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection start
+11:29:14.2505 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:14.2505 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:14.2505 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '176'
+11:29:14.2505 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:14.5025 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:14.5025 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:14.5025 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '156'
+11:29:14.5025 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Nothing'
+11:29:14.6302 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection end with response type 'Nothing'
+11:29:14.6302 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:14.6302 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:14.6302 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:14.6302 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '120'
+11:29:14.6302 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:14.7580 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:29:14.7580 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:29:14.7580 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:14.7580 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:14.7580 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '126'
+11:29:14.7580 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:14.8859 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Nothing'
+11:29:14.8859 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection start
+11:29:14.8859 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:14.8859 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:14.8859 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '193'
+11:29:14.8859 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:15.1388 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:15.1388 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:15.1388 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '213'
+11:29:15.1388 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Nothing'
+11:29:15.2655 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection end with response type 'Nothing'
+11:29:15.2655 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection start
+11:29:15.2655 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:15.2655 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:15.2655 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '180'
+11:29:15.2655 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:15.5180 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:15.5180 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:15.5180 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '195'
+11:29:15.5180 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Nothing'
+11:29:15.6454 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection end with response type 'Nothing'
+11:29:15.6454 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:15.6454 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:15.6454 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:15.6454 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '160'
+11:29:15.6454 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:15.8980 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:15.8995 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:15.8995 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '163'
+11:29:15.8995 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Nothing'
+11:29:16.0250 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:29:16.0250 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:29:16.0250 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:16.0250 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:16.0250 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '141'
+11:29:16.0250 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:16.1529 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Nothing'
+11:29:16.1529 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection start
+11:29:16.1529 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:16.1529 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:16.1529 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '233'
+11:29:16.1529 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:16.4050 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:16.4050 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:16.4050 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '235'
+11:29:16.4050 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Nothing'
+11:29:16.5317 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection end with response type 'Nothing'
+11:29:16.5317 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection start
+11:29:16.5317 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:16.5317 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:16.5317 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '203'
+11:29:16.5317 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:16.7841 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:16.7841 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:16.7841 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '246'
+11:29:16.7841 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Nothing'
+11:29:16.9111 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection end with response type 'Nothing'
+11:29:16.9111 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:16.9111 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:16.9111 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:16.9111 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '19040'
+11:29:16.9111 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:17.1630 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:17.1648 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:17.1648 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '19317'
+11:29:17.1648 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Extraction'
+11:29:21.1713 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.ClearAllCamsImageBoxes]: Clear all cams imageboxes start
+11:29:21.1713 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 start. RoiBackgroundRefresh = True
+11:29:21.2658 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 start
+11:29:21.2658 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 end
+11:29:21.2658 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 end
+11:29:21.2658 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 start. RoiBackgroundRefresh = True
+11:29:21.5054 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 start
+11:29:21.5095 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 end
+11:29:21.5095 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 end
+11:29:21.5095 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 start. RoiBackgroundRefresh = True
+11:29:21.7457 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 start
+11:29:21.7457 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 end
+11:29:21.7457 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 end
+11:29:21.7457 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 start. RoiBackgroundRefresh = True
+11:29:21.9850 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 start
+11:29:21.9938 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 end
+11:29:21.9938 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 end
+11:29:21.9938 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.ClearAllCamsImageBoxes]: Clear all cams imageboxes end
+11:29:21.9938 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Extraction'. Cycle break
+11:29:21.9938 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:21.9938 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:22.1123 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:22.1123 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '3910'
+11:29:22.1123 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:22.3632 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:22.3632 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:22.3632 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '3275'
+11:29:22.4652 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_1 start
+11:29:22.4652 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 start. RoiBackgroundRefresh = False
+11:29:22.5932 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 end
+11:29:22.5932 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 start
+11:29:22.6059 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 end
+11:29:22.6059 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_1 end
+11:29:22.6059 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Trow'
+11:29:22.6059 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_1 start
+11:29:22.6059 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_1 end. Found:True. Contour arc:251,35533845424652
+11:29:22.6059 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_1 start
+11:29:22.6059 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_1 end. Ray saved:Cam_1. From {X=-155, Y=64} to {X=1700,6599, Y=810,0069}, arc 251,35533845424652
+11:29:22.6059 [INFO] [DartboardRecognition.Windows.MainWindowViewModel.FindThrowOnRemainingCams]: Finding throws from remaining cams start. Succeeded cam: 1
+11:29:22.6059 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_2 start
+11:29:22.7052 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:22.8325 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:22.8325 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_2 start
+11:29:22.8325 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 start. RoiBackgroundRefresh = False
+11:29:22.9446 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 end
+11:29:22.9446 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 start
+11:29:22.9465 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 end
+11:29:22.9465 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_2 end
+11:29:22.9465 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_2 end
+11:29:22.9465 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_2 start
+11:29:22.9465 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_2 end. Found:True. Contour arc:255,11269783973694
+11:29:22.9465 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_2 start
+11:29:22.9465 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_2 end. Ray saved:Cam_2. From {X=351, Y=-268} to {X=1491,8019, Y=1374,7328}, arc 255,11269783973694
+11:29:22.9465 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_3 start
+11:29:23.0730 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:23.1844 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:23.1844 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_3 start
+11:29:23.1844 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 start. RoiBackgroundRefresh = False
+11:29:23.3123 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 end
+11:29:23.3123 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 start
+11:29:23.3247 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 end
+11:29:23.3247 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_3 end
+11:29:23.3247 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_3 end
+11:29:23.3247 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_3 start
+11:29:23.3247 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_3 end. Found:True. Contour arc:307,11269783973694
+11:29:23.3247 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_3 start
+11:29:23.3247 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_3 end. Ray saved:Cam_3. From {X=937, Y=-234} to {X=597,8385, Y=1737,0326}, arc 307,11269783973694
+11:29:23.3247 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_4 start
+11:29:23.4253 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:23.5526 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:23.5526 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_4 start
+11:29:23.5526 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 start. RoiBackgroundRefresh = False
+11:29:23.6644 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 end
+11:29:23.6644 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 start
+11:29:23.6644 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 end
+11:29:23.6644 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_4 end
+11:29:23.6644 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_4 end
+11:29:23.6644 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_4 start
+11:29:23.6644 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_4 end. Found:True. Contour arc:436,3675310611725
+11:29:23.6644 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_4 start
+11:29:23.6644 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_4 end. Ray saved:Cam_4. From {X=1436, Y=78} to {X=276,83435, Y=1707,8267}, arc 436,3675310611725
+11:29:23.6644 [DEBUG] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Calculate throw start
+11:29:23.6644 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_1. From {X=-155, Y=64} to {X=1700,6599, Y=810,0069}, arc 251,35533845424652'
+11:29:23.6644 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_2. From {X=351, Y=-268} to {X=1491,8019, Y=1374,7328}, arc 255,11269783973694'
+11:29:23.6644 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_3. From {X=937, Y=-234} to {X=597,8385, Y=1737,0326}, arc 307,11269783973694'
+11:29:23.6644 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_4. From {X=1436, Y=78} to {X=276,83435, Y=1707,8267}, arc 436,3675310611725'
+11:29:23.6644 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Best rays:'Cam_4. From {X=1436, Y=78} to {X=276,83435, Y=1707,8267}, arc 436,3675310611725' and 'Cam_3. From {X=937, Y=-234} to {X=597,8385, Y=1737,0326}, arc 307,11269783973694'
+11:29:23.7152 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Throw:1 x 3 = 3
+11:29:23.7152 [DEBUG] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Calculate throw end.
+11:29:23.7152 [INFO] [DartboardRecognition.Windows.MainWindowViewModel.FindThrowOnRemainingCams]: Finding throws from remaining cams end
+11:29:23.7152 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Trow'. Cycle break
+11:29:23.7152 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:23.7152 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:23.7926 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:23.7926 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '5271'
+11:29:23.7926 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:24.0433 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:24.0433 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:24.0433 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '4988'
+11:29:24.1449 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_1 start
+11:29:24.1449 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 start. RoiBackgroundRefresh = False
+11:29:24.2725 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 end
+11:29:24.2725 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 start
+11:29:24.2745 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 end
+11:29:24.2745 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_1 end
+11:29:24.2745 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Trow'
+11:29:24.2745 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_1 start
+11:29:24.2745 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_1 end. Found:True. Contour arc:416,9533175230026
+11:29:24.2745 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_1 start
+11:29:24.2745 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_1 end. Ray saved:Cam_1. From {X=-155, Y=64} to {X=1739,5521, Y=704,8372}, arc 416,9533175230026
+11:29:24.2745 [INFO] [DartboardRecognition.Windows.MainWindowViewModel.FindThrowOnRemainingCams]: Finding throws from remaining cams start. Succeeded cam: 1
+11:29:24.2745 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_2 start
+11:29:24.3852 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:24.5122 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:24.5122 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_2 start
+11:29:24.5122 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 start. RoiBackgroundRefresh = False
+11:29:24.6244 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 end
+11:29:24.6244 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 start
+11:29:24.6244 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 end
+11:29:24.6244 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_2 end
+11:29:24.6244 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_2 end
+11:29:24.6244 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_2 start
+11:29:24.6244 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_2 end. Found:True. Contour arc:381,39696860313416
+11:29:24.6244 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_2 start
+11:29:24.6353 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_2 end. Ray saved:Cam_2. From {X=351, Y=-268} to {X=1534,8676, Y=1343,9731}, arc 381,39696860313416
+11:29:24.6353 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_3 start
+11:29:24.7529 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:24.8651 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:24.8651 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_3 start
+11:29:24.8651 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 start. RoiBackgroundRefresh = False
+11:29:24.9927 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 end
+11:29:24.9927 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 start
+11:29:24.9927 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 end
+11:29:24.9927 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_3 end
+11:29:24.9927 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_3 end
+11:29:24.9927 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_3 start
+11:29:24.9927 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_3 end. Found:True. Contour arc:350,32590091228485
+11:29:24.9927 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_3 start
+11:29:24.9927 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_3 end. Ray saved:Cam_3. From {X=937, Y=-234} to {X=977,56714, Y=1765,5885}, arc 350,32590091228485
+11:29:24.9927 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_4 start
+11:29:25.1048 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:25.2323 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:25.2323 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_4 start
+11:29:25.2323 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 start. RoiBackgroundRefresh = False
+11:29:25.3447 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 end
+11:29:25.3447 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 start
+11:29:25.3447 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 end
+11:29:25.3447 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_4 end
+11:29:25.3447 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_4 end
+11:29:25.3447 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_4 start
+11:29:25.3447 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_4 end. Found:True. Contour arc:441,53910398483276
+11:29:25.3447 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_4 start
+11:29:25.3573 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_4 end. Ray saved:Cam_4. From {X=1436, Y=78} to {X=291,08356, Y=1717,8678}, arc 441,53910398483276
+11:29:25.3573 [DEBUG] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Calculate throw start
+11:29:25.3573 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_1. From {X=-155, Y=64} to {X=1739,5521, Y=704,8372}, arc 416,9533175230026'
+11:29:25.3573 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_2. From {X=351, Y=-268} to {X=1534,8676, Y=1343,9731}, arc 381,39696860313416'
+11:29:25.3573 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_3. From {X=937, Y=-234} to {X=977,56714, Y=1765,5885}, arc 350,32590091228485'
+11:29:25.3573 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_4. From {X=1436, Y=78} to {X=291,08356, Y=1717,8678}, arc 441,53910398483276'
+11:29:25.3573 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Best rays:'Cam_4. From {X=1436, Y=78} to {X=291,08356, Y=1717,8678}, arc 441,53910398483276' and 'Cam_1. From {X=-155, Y=64} to {X=1739,5521, Y=704,8372}, arc 416,9533175230026'
+11:29:25.4078 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Throw:0
+11:29:25.4078 [DEBUG] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Calculate throw end.
+11:29:25.4078 [INFO] [DartboardRecognition.Windows.MainWindowViewModel.FindThrowOnRemainingCams]: Finding throws from remaining cams end
+11:29:25.4078 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Trow'. Cycle break
+11:29:25.4078 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:25.4078 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:25.4728 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:25.4728 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '5481'
+11:29:25.4728 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:25.7240 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:25.7240 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:25.7240 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '5453'
+11:29:25.8251 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_1 start
+11:29:25.8251 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 start. RoiBackgroundRefresh = False
+11:29:25.9525 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 end
+11:29:25.9525 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 start
+11:29:25.9525 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 end
+11:29:25.9525 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_1 end
+11:29:25.9525 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Trow'
+11:29:25.9525 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_1 start
+11:29:25.9525 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_1 end. Found:True. Contour arc:380,1248904466629
+11:29:25.9525 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_1 start
+11:29:25.9635 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_1 end. Ray saved:Cam_1. From {X=-155, Y=64} to {X=1756,3516, Y=652,84216}, arc 380,1248904466629
+11:29:25.9635 [INFO] [DartboardRecognition.Windows.MainWindowViewModel.FindThrowOnRemainingCams]: Finding throws from remaining cams start. Succeeded cam: 1
+11:29:25.9635 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_2 start
+11:29:26.0649 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:26.1923 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:26.1923 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_2 start
+11:29:26.1923 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 start. RoiBackgroundRefresh = False
+11:29:26.3052 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 end
+11:29:26.3052 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 start
+11:29:26.3052 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 end
+11:29:26.3052 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_2 end
+11:29:26.3052 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_2 end
+11:29:26.3052 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_2 start
+11:29:26.3052 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_2 end. Found:True. Contour arc:428,32590091228485
+11:29:26.3052 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_2 start
+11:29:26.3052 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_2 end. Ray saved:Cam_2. From {X=351, Y=-268} to {X=1505,2762, Y=1365,2931}, arc 428,32590091228485
+11:29:26.3052 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_3 start
+11:29:26.4344 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:26.5452 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:26.5452 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_3 start
+11:29:26.5452 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 start. RoiBackgroundRefresh = False
+11:29:26.6726 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 end
+11:29:26.6726 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 start
+11:29:26.6726 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 end
+11:29:26.6726 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_3 end
+11:29:26.6726 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_3 end
+11:29:26.6726 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_3 start
+11:29:26.6726 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_3 end. Found:True. Contour arc:416,6690467596054
+11:29:26.6726 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_3 start
+11:29:26.6846 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_3 end. Ray saved:Cam_3. From {X=937, Y=-234} to {X=907,6209, Y=1765,7842}, arc 416,6690467596054
+11:29:26.6846 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_4 start
+11:29:26.7850 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:26.9125 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:26.9125 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_4 start
+11:29:26.9125 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 start. RoiBackgroundRefresh = False
+11:29:27.0244 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 end
+11:29:27.0244 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 start
+11:29:27.0244 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 end
+11:29:27.0244 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImages]: Refreshing images for cam_4 end
+11:29:27.0244 [DEBUG] [DartboardRecognition.Services.CamService.FindThrow]: Find throw for cam_4 end
+11:29:27.0244 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_4 start
+11:29:27.0244 [DEBUG] [DartboardRecognition.Services.MeasureService.FindDartContour]: Find dartContour for cam_4 end. Found:True. Contour arc:253,79898953437805
+11:29:27.0244 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_4 start
+11:29:27.0244 [DEBUG] [DartboardRecognition.Services.MeasureService.ProcessDartContour]: Process dartContour for cam_4 end. Ray saved:Cam_4. From {X=1436, Y=78} to {X=257,1915, Y=1693,6765}, arc 253,79898953437805
+11:29:27.0244 [DEBUG] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Calculate throw start
+11:29:27.0244 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_1. From {X=-155, Y=64} to {X=1756,3516, Y=652,84216}, arc 380,1248904466629'
+11:29:27.0244 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_2. From {X=351, Y=-268} to {X=1505,2762, Y=1365,2931}, arc 428,32590091228485'
+11:29:27.0244 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_3. From {X=937, Y=-234} to {X=907,6209, Y=1765,7842}, arc 416,6690467596054'
+11:29:27.0244 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Ray:'Cam_4. From {X=1436, Y=78} to {X=257,1915, Y=1693,6765}, arc 253,79898953437805'
+11:29:27.0244 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Best rays:'Cam_2. From {X=351, Y=-268} to {X=1505,2762, Y=1365,2931}, arc 428,32590091228485' and 'Cam_3. From {X=937, Y=-234} to {X=907,6209, Y=1765,7842}, arc 416,6690467596054'
+11:29:27.0766 [INFO] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Throw:3 x 13 = 39
+11:29:27.0766 [DEBUG] [DartboardRecognition.Services.ThrowService.CalculateAndSaveThrow]: Calculate throw end.
+11:29:27.0766 [INFO] [DartboardRecognition.Windows.MainWindowViewModel.FindThrowOnRemainingCams]: Finding throws from remaining cams end
+11:29:27.0766 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Trow'. Cycle break
+11:29:27.0766 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:27.0766 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:27.1524 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:27.1524 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '4927'
+11:29:27.1524 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:27.4035 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:27.4035 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:27.4035 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '8239'
+11:29:27.4035 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Extraction'
+11:29:31.4102 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.ClearAllCamsImageBoxes]: Clear all cams imageboxes start
+11:29:31.4102 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 start. RoiBackgroundRefresh = True
+11:29:31.4571 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 start
+11:29:31.4658 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 end
+11:29:31.4658 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 end
+11:29:31.4658 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 start. RoiBackgroundRefresh = True
+11:29:31.6971 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 start
+11:29:31.6971 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 end
+11:29:31.6971 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_2 end
+11:29:31.6971 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 start. RoiBackgroundRefresh = True
+11:29:31.9371 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 start
+11:29:31.9371 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 end
+11:29:31.9371 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_3 end
+11:29:31.9371 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 start. RoiBackgroundRefresh = True
+11:29:32.1771 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 start
+11:29:32.1909 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 end
+11:29:32.1909 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_4 end
+11:29:32.1909 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.ClearAllCamsImageBoxes]: Clear all cams imageboxes end
+11:29:32.1909 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Extraction'. Cycle break
+11:29:32.1909 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:32.1909 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:32.3047 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:32.3047 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '15'
+11:29:32.3047 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:32.4306 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:29:32.4306 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:29:32.4306 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:32.4306 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:32.4306 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '17'
+11:29:32.4306 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:32.5583 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Nothing'
+11:29:32.5583 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection start
+11:29:32.5583 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:32.5583 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:32.5583 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '13'
+11:29:32.5583 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:32.6857 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection end with response type 'Nothing'
+11:29:32.6857 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection start
+11:29:32.6857 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:32.6857 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:32.6857 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '12'
+11:29:32.6857 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:32.8137 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection end with response type 'Nothing'
+11:29:32.8137 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:32.8137 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:32.8137 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:32.8137 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '17'
+11:29:32.8137 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:32.9406 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:29:32.9406 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:29:32.9406 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:32.9406 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:32.9406 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '25'
+11:29:32.9406 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:33.0680 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Nothing'
+11:29:33.0680 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection start
+11:29:33.0680 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:33.0680 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:33.0680 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '19'
+11:29:33.0680 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:33.1953 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection end with response type 'Nothing'
+11:29:33.1953 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection start
+11:29:33.1953 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:33.1953 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:33.1953 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '22'
+11:29:33.1953 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:33.3224 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection end with response type 'Nothing'
+11:29:33.3224 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:33.3224 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:33.3224 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:33.3224 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '26'
+11:29:33.3224 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:33.4514 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:29:33.4514 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:29:33.4514 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:33.4514 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:33.4514 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '19'
+11:29:33.4514 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:33.5789 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Nothing'
+11:29:33.5789 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection start
+11:29:33.5789 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:33.5789 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:33.5789 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '32'
+11:29:33.5789 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:33.7062 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection end with response type 'Nothing'
+11:29:33.7062 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection start
+11:29:33.7062 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:33.7062 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:33.7062 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '26'
+11:29:33.7062 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:33.8338 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection end with response type 'Nothing'
+11:29:33.8338 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:33.8338 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:33.8338 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:33.8338 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '26'
+11:29:33.8338 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:33.9607 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:29:33.9616 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:29:33.9616 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:33.9616 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:33.9616 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '42'
+11:29:33.9616 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:34.0892 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Nothing'
+11:29:34.0892 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection start
+11:29:34.0892 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:34.0892 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:34.0892 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '41'
+11:29:34.0892 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:34.2171 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection end with response type 'Nothing'
+11:29:34.2171 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection start
+11:29:34.2171 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:34.2171 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:34.2171 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '50'
+11:29:34.2171 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:34.3437 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection end with response type 'Nothing'
+11:29:34.3437 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:34.3437 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:34.3437 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:34.3437 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '22'
+11:29:34.3437 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:34.4708 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:29:34.4708 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:29:34.4708 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:34.4708 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:34.4708 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '66'
+11:29:34.4708 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:34.5975 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Nothing'
+11:29:34.5975 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection start
+11:29:34.5975 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:34.5975 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:34.5975 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '76'
+11:29:34.5975 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:34.7261 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection end with response type 'Nothing'
+11:29:34.7261 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection start
+11:29:34.7261 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:34.7284 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:34.7284 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '38'
+11:29:34.7284 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:34.8546 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection end with response type 'Nothing'
+11:29:34.8546 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:34.8546 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:34.8546 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:34.8546 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '30'
+11:29:34.8546 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:34.9825 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:29:34.9825 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:29:34.9825 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:34.9825 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:34.9825 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '75'
+11:29:34.9825 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:35.1100 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Nothing'
+11:29:35.1100 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection start
+11:29:35.1100 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:35.1100 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:35.1100 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '100'
+11:29:35.1100 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:35.2369 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection end with response type 'Nothing'
+11:29:35.2369 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection start
+11:29:35.2369 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:35.2369 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:35.2369 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '36'
+11:29:35.2369 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:35.3643 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection end with response type 'Nothing'
+11:29:35.3643 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:35.3643 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:35.3643 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:35.3643 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '36'
+11:29:35.3643 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:35.4911 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:29:35.4911 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:29:35.4911 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:35.4927 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:35.4927 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '30'
+11:29:35.4927 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:35.6183 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Nothing'
+11:29:35.6183 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection start
+11:29:35.6183 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:35.6183 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:35.6183 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '15'
+11:29:35.6183 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:35.7461 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection end with response type 'Nothing'
+11:29:35.7461 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection start
+11:29:35.7461 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:35.7461 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:35.7461 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '9'
+11:29:35.7461 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:35.8742 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection end with response type 'Nothing'
+11:29:35.8742 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:35.8742 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:35.8742 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:35.8742 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '49'
+11:29:35.8742 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:36.0017 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:29:36.0017 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:29:36.0017 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:36.0017 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:36.0017 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '124'
+11:29:36.0017 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:36.1289 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Nothing'
+11:29:36.1289 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection start
+11:29:36.1289 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:36.1289 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:36.1289 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '151'
+11:29:36.1289 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:36.3818 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:36.3833 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:36.3833 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '57'
+11:29:36.3833 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Nothing'
+11:29:36.5091 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection end with response type 'Nothing'
+11:29:36.5091 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection start
+11:29:36.5091 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:36.5091 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:36.5091 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '11'
+11:29:36.5091 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:36.6360 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection end with response type 'Nothing'
+11:29:36.6360 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:36.6360 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:36.6360 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:36.6360 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '21'
+11:29:36.6360 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:36.7637 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:29:36.7637 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:29:36.7637 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:36.7637 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:36.7637 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '23'
+11:29:36.7637 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:36.8921 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Nothing'
+11:29:36.8921 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection start
+11:29:36.8921 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:36.8921 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:36.8921 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '21'
+11:29:36.8921 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:37.0199 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection end with response type 'Nothing'
+11:29:37.0199 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection start
+11:29:37.0199 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:37.0199 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:37.0199 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '63'
+11:29:37.0199 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:37.1468 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection end with response type 'Nothing'
+11:29:37.1468 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:37.1468 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:37.1489 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:37.1489 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '12'
+11:29:37.1489 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:37.2753 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:29:37.2753 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:29:37.2753 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:37.2753 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:37.2753 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '34'
+11:29:37.2753 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:37.4023 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Nothing'
+11:29:37.4023 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection start
+11:29:37.4023 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:37.4023 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:37.4023 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '29'
+11:29:37.4023 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:37.5305 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection end with response type 'Nothing'
+11:29:37.5305 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection start
+11:29:37.5305 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:37.5305 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:37.5305 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '117'
+11:29:37.5305 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:37.6574 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection end with response type 'Nothing'
+11:29:37.6574 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:37.6574 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:37.6574 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:37.6574 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '128'
+11:29:37.6574 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:37.7846 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:29:37.7846 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:29:37.7846 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:37.7846 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:37.7846 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '82'
+11:29:37.7846 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:37.9133 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Nothing'
+11:29:37.9133 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection start
+11:29:37.9133 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:37.9148 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:37.9148 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '232'
+11:29:37.9148 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:38.1660 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:38.1660 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:38.1660 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '206'
+11:29:38.1660 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Nothing'
+11:29:38.2935 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection end with response type 'Nothing'
+11:29:38.2935 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection start
+11:29:38.2935 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:38.2935 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:38.2935 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '131'
+11:29:38.2935 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:38.4210 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection end with response type 'Nothing'
+11:29:38.4210 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection start
+11:29:38.4210 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 start
+11:29:38.4210 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_1 end
+11:29:38.4210 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '64'
+11:29:38.4210 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Nothing'
+11:29:38.5482 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_1 detection end with response type 'Nothing'
+11:29:38.5482 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection start
+11:29:38.5482 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:38.5482 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:38.5482 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '156'
+11:29:38.5482 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:38.8016 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 start
+11:29:38.8016 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_2 end
+11:29:38.8016 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '175'
+11:29:38.8016 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Nothing'
+11:29:38.8812 [DEBUG] [DartboardRecognition.Windows.MainWindow.StopButtonClick]: MainWindow stop button clicked
+11:29:38.9302 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_2 detection end with response type 'Nothing'
+11:29:38.9302 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection start
+11:29:38.9302 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:38.9302 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:38.9302 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '235'
+11:29:38.9302 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:39.1832 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 start
+11:29:39.1832 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_3 end
+11:29:39.1832 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '198'
+11:29:39.1832 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Nothing'
+11:29:39.3110 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_3 detection end with response type 'Nothing'
+11:29:39.3110 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection start
+11:29:39.3110 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:39.3110 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:39.3110 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Moves is '173'
+11:29:39.3110 [DEBUG] [DartboardRecognition.Services.CamService.DetectMove]: Response is 'Move'
+11:29:39.5650 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 start
+11:29:39.5650 [DEBUG] [DartboardRecognition.Services.CamService.CaptureAndDiff]: Capture and diff for cam_4 end
+11:29:39.5650 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Moves is '127'
+11:29:39.5650 [DEBUG] [DartboardRecognition.Services.CamService.DetectThrow]: Response is 'Nothing'
+11:29:39.6935 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Cam_4 detection end with response type 'Nothing'
+11:29:39.6935 [INFO] [DartboardRecognition.Windows.MainWindowViewModel+<>c__DisplayClass13_0.<StartDetection>b__0]: Detection for 4 cams end. Cancellation requested
+11:29:40.5593 [DEBUG] [DartboardRecognition.Windows.MainWindow.OnClosing]: MainWindow on closing
+11:29:40.5593 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings start
+11:29:40.6030 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings end

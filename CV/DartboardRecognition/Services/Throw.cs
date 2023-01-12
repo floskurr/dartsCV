@@ -22,7 +22,7 @@ namespace DartboardRecognition.Services
         public PointF Poi { get; }
         public ThrowType Type { get; }
         public int TotalPoints { get; }
-        public int Sector { get; }
+        public int Sector { get; } 
         public int Multiplier { get; }
         public int ProjectionResolution { get; }
 
