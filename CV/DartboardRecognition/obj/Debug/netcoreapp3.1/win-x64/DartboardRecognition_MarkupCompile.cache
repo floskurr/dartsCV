@@ -1,20 +1,20 @@
 ﻿DartboardRecognition
-
+1.0.0.0
 
 exe
 C#
 .cs
-C:\Users\florian.weisser\Documents\01_Programmieren\own\dartsCV\CV\DartboardRecognition\obj\Debug\netcoreapp3.1\win-x64\
+c:\Users\florian.weisser\Documents\01_Programmieren\own\dartsCV\CV\DartboardRecognition\obj\Debug\netcoreapp3.1\win-x64\
 DartboardRecognition
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-C:\Users\florian.weisser\Documents\01_Programmieren\own\dartsCV\CV\DartboardRecognition\App.xaml
+c:\Users\florian.weisser\Documents\01_Programmieren\own\dartsCV\CV\DartboardRecognition\App.xaml
 2574010852
 11413424753
-151386832803
-3241725428727
+17-262823161
+324-677689426
 Windows\CamWindow.xaml;Windows\MainWindow.xaml;
 
-False
+True
 
