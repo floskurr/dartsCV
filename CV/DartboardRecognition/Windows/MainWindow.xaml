@@ -221,6 +221,8 @@
                            VerticalContentAlignment="Center" Padding="0" />
                     <Label Content="cm" Margin="183,89,136.4,317.6" HorizontalContentAlignment="Left"
                            VerticalContentAlignment="Center" Padding="0" />
+                    <TextBox x:Name="ApiAdress"  HorizontalAlignment="Left" Margin="89,307,0,0" TextWrapping="Wrap" Text="API adress and endpoint here" VerticalAlignment="Top" Width="233"/>
+                    <Label Content="Backend API" HorizontalAlignment="Left" Margin="8,303,0,0" VerticalAlignment="Top"/>
                 </Grid>
             </TabItem>
         </TabControl>

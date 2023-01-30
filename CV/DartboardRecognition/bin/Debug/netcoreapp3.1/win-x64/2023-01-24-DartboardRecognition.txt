@@ -1,0 +1,21 @@
+11:09:01.3947 [INFO] [DartboardRecognition.Windows.MainWindow..ctor]: 
+
+11:09:01.4762 [INFO] [DartboardRecognition.Windows.MainWindow..ctor]: App start
+11:09:02.1129 [DEBUG] [DartboardRecognition.Windows.MainWindow.RegisterContainer]: Services container register start
+11:09:02.6860 [DEBUG] [DartboardRecognition.Windows.MainWindow.RegisterContainer]: Services container register end
+11:09:02.7749 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings start
+11:09:02.8136 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings end
+11:09:02.8716 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings start
+11:09:03.2242 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings end
+11:09:26.3936 [DEBUG] [DartboardRecognition.Windows.MainWindow.StartButtonClick]: MainWindow start button clicked
+11:09:26.4803 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 start
+11:09:26.4812 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 end
+11:09:26.5592 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 start
+11:09:26.5592 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 end
+11:09:26.6358 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 start
+11:09:26.6358 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 end
+11:09:26.6929 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 start
+11:09:26.6929 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 end
+11:09:26.7328 [INFO] [DartboardRecognition.Windows.MainWindowViewModel.StartDetection]: Detection for 4 cams start
+11:09:26.7328 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.ClearAllCamsImageBoxes]: Clear all cams imageboxes start
+11:09:26.7328 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 start. RoiBackgroundRefresh = True

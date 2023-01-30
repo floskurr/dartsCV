@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
+using DartboardRecognition.Windows;
 using Emgu.CV.Structure;
 using NLog;
 
@@ -60,9 +61,9 @@ namespace DartboardRecognition.Services
             drawService.ProjectionDrawLine(secondBestRay.CamPoint, secondBestRay.RayPoint, new Bgr(Color.Aqua).MCvScalar, false);
             drawService.ProjectionDrawThrow(poi, false);
             drawService.PrintThrow(anotherThrow);
-            Console.WriteLine("Total:" + anotherThrow.TotalPoints); //TODO throw an frontend
-            Console.WriteLine("Multi" + anotherThrow.Multiplier);
-            Console.WriteLine("Sektor" + anotherThrow.Sector);
+            Console.WriteLine("Total:" + anotherThrow.TotalPoints); //TODO send to backend via http post (REST API)
+            Console.WriteLine("Multi:" + anotherThrow.Multiplier);
+            Console.WriteLine("Sektor:" + anotherThrow.Sector);
 
             logger.Info($"Throw:{anotherThrow}");
             logger.Debug($"Calculate throw end.");

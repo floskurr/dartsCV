@@ -1,0 +1,121 @@
+16:00:00.7474 [INFO] [DartboardRecognition.Windows.MainWindow..ctor]: 
+
+16:00:00.8190 [INFO] [DartboardRecognition.Windows.MainWindow..ctor]: App start
+16:00:01.4562 [DEBUG] [DartboardRecognition.Windows.MainWindow.RegisterContainer]: Services container register start
+16:00:01.9875 [DEBUG] [DartboardRecognition.Windows.MainWindow.RegisterContainer]: Services container register end
+16:00:02.0984 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings start
+16:00:02.1381 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings end
+16:00:02.1996 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings start
+16:00:02.5803 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings end
+16:00:04.4334 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings start
+16:00:04.5502 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings end
+16:00:04.5502 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings start
+16:00:04.5836 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings end
+16:00:13.7834 [DEBUG] [DartboardRecognition.Windows.MainWindow.OnClosing]: MainWindow on closing
+16:00:13.7834 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings start
+16:00:13.8883 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings end
+16:00:52.6993 [INFO] [DartboardRecognition.Windows.MainWindow..ctor]: 
+
+16:00:52.7394 [INFO] [DartboardRecognition.Windows.MainWindow..ctor]: App start
+16:00:53.0206 [DEBUG] [DartboardRecognition.Windows.MainWindow.RegisterContainer]: Services container register start
+16:00:53.1568 [DEBUG] [DartboardRecognition.Windows.MainWindow.RegisterContainer]: Services container register end
+16:00:53.2168 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings start
+16:00:53.2529 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings end
+16:00:53.3005 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings start
+16:00:53.5870 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings end
+16:00:56.5631 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings start
+16:00:56.6646 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings end
+16:00:56.6646 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings start
+16:00:56.6981 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings end
+16:01:01.2230 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings start
+16:01:01.3261 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings end
+16:01:03.0596 [DEBUG] [DartboardRecognition.Windows.MainWindow.StartButtonClick]: MainWindow start button clicked
+16:01:03.1410 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 start
+16:01:03.1410 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 end
+16:01:03.2191 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 start
+16:01:03.2191 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 end
+16:01:03.2706 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 start
+16:01:03.2706 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 end
+16:01:03.3219 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 start
+16:01:03.3219 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 end
+16:01:03.3545 [INFO] [DartboardRecognition.Windows.MainWindowViewModel.StartDetection]: Detection for 4 cams start
+16:01:03.3594 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.ClearAllCamsImageBoxes]: Clear all cams imageboxes start
+16:01:03.3594 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 start. RoiBackgroundRefresh = True
+16:01:20.0340 [INFO] [DartboardRecognition.Windows.MainWindow..ctor]: 
+
+16:01:20.0828 [INFO] [DartboardRecognition.Windows.MainWindow..ctor]: App start
+16:01:20.3482 [DEBUG] [DartboardRecognition.Windows.MainWindow.RegisterContainer]: Services container register start
+16:01:20.4703 [DEBUG] [DartboardRecognition.Windows.MainWindow.RegisterContainer]: Services container register end
+16:01:20.5291 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings start
+16:01:20.5697 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings end
+16:01:20.6190 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings start
+16:01:20.8559 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings end
+16:01:22.6832 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings start
+16:01:22.7918 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings end
+16:01:22.7918 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings start
+16:01:22.8321 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings end
+16:01:27.8518 [DEBUG] [DartboardRecognition.Windows.MainWindow.OnClosing]: MainWindow on closing
+16:01:27.8518 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings start
+16:01:27.9672 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings end
+16:04:57.8822 [INFO] [DartboardRecognition.Windows.MainWindow..ctor]: 
+
+16:04:57.9257 [INFO] [DartboardRecognition.Windows.MainWindow..ctor]: App start
+16:04:58.2413 [DEBUG] [DartboardRecognition.Windows.MainWindow.RegisterContainer]: Services container register start
+16:04:58.7071 [DEBUG] [DartboardRecognition.Windows.MainWindow.RegisterContainer]: Services container register end
+16:04:58.7720 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings start
+16:04:58.8138 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings end
+16:04:58.8712 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings start
+16:04:59.1024 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings end
+16:05:00.1479 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings start
+16:05:00.2450 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings end
+16:05:00.2450 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings start
+16:05:00.2819 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings end
+16:05:15.5461 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings start
+16:05:15.6997 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings end
+16:05:18.1257 [DEBUG] [DartboardRecognition.Windows.MainWindow.OnClosing]: MainWindow on closing
+16:05:18.1278 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings start
+16:05:18.2209 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings end
+16:08:32.3519 [INFO] [DartboardRecognition.Windows.MainWindow..ctor]: 
+
+16:08:32.3821 [INFO] [DartboardRecognition.Windows.MainWindow..ctor]: App start
+16:08:32.5354 [DEBUG] [DartboardRecognition.Windows.MainWindow.RegisterContainer]: Services container register start
+16:08:32.5947 [DEBUG] [DartboardRecognition.Windows.MainWindow.RegisterContainer]: Services container register end
+16:08:32.6599 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings start
+16:08:32.6852 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings end
+16:08:32.7158 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings start
+16:08:32.8677 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings end
+16:08:34.3053 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings start
+16:08:34.3954 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings end
+16:08:34.3954 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings start
+16:08:34.4180 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings end
+16:08:43.1708 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings start
+16:08:43.2637 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings end
+16:08:44.4516 [DEBUG] [DartboardRecognition.Windows.MainWindow.StartButtonClick]: MainWindow start button clicked
+16:08:44.4993 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 start
+16:08:44.4993 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_1 end
+16:08:44.5907 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 start
+16:08:44.5907 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_2 end
+16:08:44.6418 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 start
+16:08:44.6418 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_3 end
+16:08:44.7022 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 start
+16:08:44.7022 [DEBUG] [DartboardRecognition.Services.CamService.RefreshImageBoxes]: Refreshing imageboxes for cam_4 end
+16:08:44.7675 [INFO] [DartboardRecognition.Windows.MainWindowViewModel.StartDetection]: Detection for 4 cams start
+16:08:44.7675 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.ClearAllCamsImageBoxes]: Clear all cams imageboxes start
+16:08:44.7675 [DEBUG] [DartboardRecognition.Services.CamService.DoCapture]: Doing capture for cam_1 start. RoiBackgroundRefresh = True
+16:08:47.3299 [DEBUG] [DartboardRecognition.Windows.MainWindow.StopButtonClick]: MainWindow stop button clicked
+16:08:52.2175 [DEBUG] [DartboardRecognition.Windows.MainWindow.OnClosing]: MainWindow on closing
+16:08:52.2175 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings start
+16:08:52.3283 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings end
+16:09:30.4350 [INFO] [DartboardRecognition.Windows.MainWindow..ctor]: 
+
+16:09:30.4658 [INFO] [DartboardRecognition.Windows.MainWindow..ctor]: App start
+16:09:30.6164 [DEBUG] [DartboardRecognition.Windows.MainWindow.RegisterContainer]: Services container register start
+16:09:30.6728 [DEBUG] [DartboardRecognition.Windows.MainWindow.RegisterContainer]: Services container register end
+16:09:30.7167 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings start
+16:09:30.7465 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings end
+16:09:30.7792 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings start
+16:09:30.9323 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings end
+16:09:31.9675 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings start
+16:09:32.0524 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.SaveSettings]: Save settings end
+16:09:32.0524 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings start
+16:09:32.0779 [DEBUG] [DartboardRecognition.Windows.MainWindowViewModel.LoadSettings]: Load settings end

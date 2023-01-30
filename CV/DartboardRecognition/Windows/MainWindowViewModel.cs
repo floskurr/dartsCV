@@ -232,6 +232,7 @@ namespace DartboardRecognition.Windows
             mainWindowView.ToCam2Distance.Text = configService.Read<string>("ToCam2Distance");
             mainWindowView.ToCam3Distance.Text = configService.Read<string>("ToCam3Distance");
             mainWindowView.ToCam4Distance.Text = configService.Read<string>("ToCam4Distance");
+            mainWindowView.ApiAdress.Text = configService.Read<string>("ApiAdress"); //added: load api adress
 
             logger.Debug("Load settings end");
         }
@@ -268,6 +269,7 @@ namespace DartboardRecognition.Windows
             configService.Write("ToCam2Distance", mainWindowView.ToCam2Distance.Text);
             configService.Write("ToCam3Distance", mainWindowView.ToCam3Distance.Text);
             configService.Write("ToCam4Distance", mainWindowView.ToCam4Distance.Text);
+            configService.Write("ApiAdress", mainWindowView.ApiAdress.Text); //added: save ApiAdress
 
             logger.Debug("Save settings end");
         }
