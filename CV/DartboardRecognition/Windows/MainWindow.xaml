@@ -16,7 +16,7 @@
     <Grid>
         <TabControl Name="TabControl" HorizontalAlignment="Left" Height="458" VerticalAlignment="Top" Width="344"
                     SelectionChanged="OnTabSelectionChanged">
-            <TabItem Header="Projection">
+            <TabItem Name="ProjectionTabItem" Header="Projection">
                 <Grid>
                     <Image x:Name="DartboardProjectionImageBox" HorizontalAlignment="Left" VerticalAlignment="Top"
                            Width="318" Height="318" Margin="10,10,0,0" />
@@ -221,8 +221,10 @@
                            VerticalContentAlignment="Center" Padding="0" />
                     <Label Content="cm" Margin="183,89,136.4,317.6" HorizontalContentAlignment="Left"
                            VerticalContentAlignment="Center" Padding="0" />
-                    <TextBox x:Name="ApiAdress"  HorizontalAlignment="Left" Margin="89,307,0,0" TextWrapping="Wrap" Text="API adress and endpoint here" VerticalAlignment="Top" Width="233"/>
-                    <Label Content="Backend API" HorizontalAlignment="Left" Margin="8,303,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="ApiAdress" Margin="27,334,27,0" TextWrapping="Wrap" Text="API adress and endpoint here" VerticalAlignment="Top"/>
+                    <Label Content="Backend API and Endpoint:" HorizontalAlignment="Left" Margin="8,303,0,0" VerticalAlignment="Top"/>
+                    <Button x:Name="savebutton" Content="Save" HorizontalAlignment="Left" Margin="27,363,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+                    <TextBlock x:Name="saveMsg" HorizontalAlignment="Left" Margin="27,395,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="294"/>
                 </Grid>
             </TabItem>
         </TabControl>

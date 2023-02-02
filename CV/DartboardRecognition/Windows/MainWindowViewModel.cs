@@ -15,6 +15,10 @@ using NLog;
 
 namespace DartboardRecognition.Windows
 {
+    public static class variables
+    {
+        public static string apiConnectionString;
+    }
     public class MainWindowViewModel
     {
         private readonly MainWindow mainWindowView;
@@ -232,7 +236,8 @@ namespace DartboardRecognition.Windows
             mainWindowView.ToCam2Distance.Text = configService.Read<string>("ToCam2Distance");
             mainWindowView.ToCam3Distance.Text = configService.Read<string>("ToCam3Distance");
             mainWindowView.ToCam4Distance.Text = configService.Read<string>("ToCam4Distance");
-            mainWindowView.ApiAdress.Text = configService.Read<string>("ApiAdress"); //added: load api adress
+            mainWindowView.ApiAdress.Text = configService.Read<string>("ApiAdress"); //added: load api
+            variables.apiConnectionString = configService.Read<String>("ApiAdress");
 
             logger.Debug("Load settings end");
         }

@@ -1,5 +1,6 @@
 ﻿#region Usings
 
+using System;
 using System.ComponentModel;
 using System.IO;
 using System.Windows;
@@ -96,6 +97,22 @@ namespace DartboardRecognition.Windows
             if (SettingsTabItem.IsSelected)
             {
                 viewModel.LoadSettings();
+            }
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e) // TODO optimized
+        {
+            string url = ((MainWindow)System.Windows.Application.Current.MainWindow).ApiAdress.Text;
+
+            if (url.StartsWith("http") && url.Contains("://") && Uri.IsWellFormedUriString(url, UriKind.Absolute))
+            {
+                variables.apiConnectionString = url;
+                MessageBox.Show("Succesfully saved API URI: " + url);
+                viewModel.SaveSettings();
+            }
+            else
+            {
+                MessageBox.Show("The URI needs to begin with http or https\nand has to have an endpoint specified.", "The given URI is not a valid URI!");
             }
         }
     }

@@ -3,10 +3,13 @@
 using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.IO;
 using System.Linq;
+using System.Net;
 using DartboardRecognition.Windows;
 using Emgu.CV.Structure;
 using NLog;
+using System.Text.Json;
 
 #endregion
 
@@ -61,9 +64,28 @@ namespace DartboardRecognition.Services
             drawService.ProjectionDrawLine(secondBestRay.CamPoint, secondBestRay.RayPoint, new Bgr(Color.Aqua).MCvScalar, false);
             drawService.ProjectionDrawThrow(poi, false);
             drawService.PrintThrow(anotherThrow);
-            Console.WriteLine("Total:" + anotherThrow.TotalPoints); //TODO send to backend via http post (REST API)
+            Console.WriteLine("Total:" + anotherThrow.TotalPoints);
             Console.WriteLine("Multi:" + anotherThrow.Multiplier);
             Console.WriteLine("Sektor:" + anotherThrow.Sector);
+
+            var httpWebRequest = (HttpWebRequest)WebRequest.Create(variables.apiConnectionString);
+            httpWebRequest.ContentType = "application/json";
+            httpWebRequest.Method = "POST";
+
+            object[] formatArgs = new object[] { anotherThrow.Sector, anotherThrow.Multiplier, anotherThrow.TotalPoints };
+            string throwJson = "{\"Sector\": " + anotherThrow.Sector + ",\"Multiplier\": " + anotherThrow.Multiplier + ",\"TotalPoints\": " + anotherThrow.TotalPoints + "}"; // not pretty but works (fuck string.format)
+
+            using (var streamWriter = new StreamWriter(httpWebRequest.GetRequestStream()))
+            {
+                streamWriter.Write(throwJson);
+            }
+            
+            var httpResponse = (HttpWebResponse)httpWebRequest.GetResponse();
+            using (var streamReader = new StreamReader(httpResponse.GetResponseStream()))
+            {
+                var result = streamReader.ReadToEnd();
+                Console.WriteLine(result);
+            }
 
             logger.Info($"Throw:{anotherThrow}");
             logger.Debug($"Calculate throw end.");
